@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/11/11/SpringCloud/</loc>
+    
+    <lastmod>2021-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/11/SpringBoot/</loc>
+    
+    <lastmod>2021-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/11/Spring/</loc>
+    
+    <lastmod>2021-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/11/Hadoop/</loc>
+    
+    <lastmod>2021-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/11/Elasticsearch/</loc>
+    
+    <lastmod>2021-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/11/java/</loc>
+    
+    <lastmod>2021-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/10/hexo/</loc>
+    
+    <lastmod>2021-11-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2021-11-11</lastmod>
@@ -9,14 +58,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://example.com/links/index.html</loc>
     
     <lastmod>2021-11-11</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/links/index.html</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2021-11-11</lastmod>
     
@@ -47,13 +96,6 @@
     <loc>http://example.com/404.html</loc>
     
     <lastmod>2021-11-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/11/10/hello-world/</loc>
-    
-    <lastmod>2021-11-02</lastmod>
     
   </url>
   
