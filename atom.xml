@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://btxiaomizhou.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://btxiaomizhou.github.io/"/>
   <updated>2022-01-01T13:42:28.186Z</updated>
-  <id>http://example.com/</id>
+  <id>https://btxiaomizhou.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>RocketMQ</title>
-    <link href="http://example.com/2021/12/30/RocketMQ/"/>
-    <id>http://example.com/2021/12/30/RocketMQ/</id>
+    <link href="https://btxiaomizhou.github.io/2021/12/30/RocketMQ/"/>
+    <id>https://btxiaomizhou.github.io/2021/12/30/RocketMQ/</id>
     <published>2021-12-29T16:35:11.000Z</published>
     <updated>2022-01-01T13:42:28.186Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>JVM</title>
-    <link href="http://example.com/2021/11/11/JVM/"/>
-    <id>http://example.com/2021/11/11/JVM/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/JVM/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/JVM/</id>
     <published>2021-11-11T15:41:31.908Z</published>
     <updated>2021-12-12T15:48:49.281Z</updated>
     
@@ -59,8 +59,8 @@
   
   <entry>
     <title>MySQL</title>
-    <link href="http://example.com/2021/11/11/MySQL/"/>
-    <id>http://example.com/2021/11/11/MySQL/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/MySQL/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/MySQL/</id>
     <published>2021-11-11T15:40:12.759Z</published>
     <updated>2021-11-11T15:41:02.669Z</updated>
     
@@ -79,8 +79,8 @@
   
   <entry>
     <title>SpringCloud</title>
-    <link href="http://example.com/2021/11/11/SpringCloud/"/>
-    <id>http://example.com/2021/11/11/SpringCloud/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/SpringCloud/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/SpringCloud/</id>
     <published>2021-11-11T15:14:15.067Z</published>
     <updated>2021-11-11T15:18:16.586Z</updated>
     
@@ -99,8 +99,8 @@
   
   <entry>
     <title>SpringBoot</title>
-    <link href="http://example.com/2021/11/11/SpringBoot/"/>
-    <id>http://example.com/2021/11/11/SpringBoot/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/SpringBoot/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/SpringBoot/</id>
     <published>2021-11-11T15:14:14.563Z</published>
     <updated>2021-11-11T15:17:57.475Z</updated>
     
@@ -119,8 +119,8 @@
   
   <entry>
     <title>Hadoop</title>
-    <link href="http://example.com/2021/11/11/Hadoop/"/>
-    <id>http://example.com/2021/11/11/Hadoop/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/Hadoop/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/Hadoop/</id>
     <published>2021-11-11T15:14:14.030Z</published>
     <updated>2021-11-11T15:16:46.208Z</updated>
     
@@ -139,8 +139,8 @@
   
   <entry>
     <title>Elasticsearch</title>
-    <link href="http://example.com/2021/11/11/Elasticsearch/"/>
-    <id>http://example.com/2021/11/11/Elasticsearch/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/Elasticsearch/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/Elasticsearch/</id>
     <published>2021-11-11T15:14:13.187Z</published>
     <updated>2021-11-11T15:16:01.182Z</updated>
     
@@ -159,8 +159,8 @@
   
   <entry>
     <title>Spring</title>
-    <link href="http://example.com/2021/11/11/Spring/"/>
-    <id>http://example.com/2021/11/11/Spring/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/Spring/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/Spring/</id>
     <published>2021-11-11T15:14:12.142Z</published>
     <updated>2021-11-11T15:17:33.936Z</updated>
     
@@ -179,8 +179,8 @@
   
   <entry>
     <title>JAVA</title>
-    <link href="http://example.com/2021/11/11/JAVA/"/>
-    <id>http://example.com/2021/11/11/JAVA/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/11/JAVA/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/11/JAVA/</id>
     <published>2021-11-11T15:09:46.948Z</published>
     <updated>2021-11-11T15:41:22.350Z</updated>
     
@@ -199,8 +199,8 @@
   
   <entry>
     <title>Hexo</title>
-    <link href="http://example.com/2021/11/10/hexo/"/>
-    <id>http://example.com/2021/11/10/hexo/</id>
+    <link href="https://btxiaomizhou.github.io/2021/11/10/hexo/"/>
+    <id>https://btxiaomizhou.github.io/2021/11/10/hexo/</id>
     <published>2021-11-09T17:15:42.881Z</published>
     <updated>2021-11-11T15:11:48.245Z</updated>
     
